@@ -1,6 +1,11 @@
+### Well met!
+
+My name is Yuri, I am former mining engineer. I quitted job to become a programmer. Making a career change after 30. I am self-taught developer, learning Data Structures & Algorithms and Data Analysis with Python. I am passionate about IoT and Data-driven technologies.
+
+<!--
 ### Hi there 👋
 - 🌱 I’m currently learning Data Structures and Algorithms.
-
+-->
 <!--
 **YuriSpiridonov/YuriSpiridonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
