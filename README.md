@@ -1,10 +1,8 @@
-### Well met!
+### Hey there! My name is Yuri.
 
-My name is Yuri, I am former mining engineer. I quitted job to become a <br>
-programmer. Making a career change after 30. I am an aspiring self-taught <br>
-developer, learning Data Structures & Algorithms and Data Analysis with Python. <br>
-I am passionate about IoT and Data-driven technologies. <br>
-<img align="right" alt="Cat" src="https://github.com/YuriSpiridonov/YuriSpiridonov/blob/master/logos/cat_100.png" />
+_Aspiring Developer_
+
+I am a former mining engineer. Covid pandemic pushed me to the career change so I quit job to become a self-taught developer. Currently I am learning Data Structures & Algorithms and Data Analysis with Python. Besides that I am passionate about IoT and Data-driven technologies.
 
 <!--
 ### Hi there 👋
